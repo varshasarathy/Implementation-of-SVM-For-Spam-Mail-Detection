@@ -23,7 +23,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: VARSHA SARATHY
+Developed by: VARSHA SARATHI
 RegisterNumber:  212223040233
 */
 ```
